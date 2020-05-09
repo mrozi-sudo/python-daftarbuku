@@ -1,11 +1,11 @@
-# python-daftarbuku
+# Daftar Buku - Sebuah Proyek Python
 Test penggunaan git
 
 ## Menggunakan GIT dengan Command Line
-- Buat SSh keys
+- Buat SSH keys
 - Upload ke Github
 - Buat repository
-- Copy alamat SSh
+- Copy alamat SSH
 - Clone dengan perintah git clone <alamat SSH>
 - Ubah file
 - Tambahkan ke daftar file yang diubah dengan git add
