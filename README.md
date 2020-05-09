@@ -17,4 +17,4 @@ Test penggunaan git
 - Merubah file
 - Mengirim file ke Github
 - Merubah di Github
-- Mem-pull darui lokal
+- Mem-pull dari lokal
